@@ -1,0 +1,14 @@
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\SolidPrinciples\SolidPrinciples\bin\Debug\net8.0\SolidPrinciples.exe
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\SolidPrinciples\SolidPrinciples\bin\Debug\net8.0\SolidPrinciples.deps.json
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\SolidPrinciples\SolidPrinciples\bin\Debug\net8.0\SolidPrinciples.runtimeconfig.json
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\SolidPrinciples\SolidPrinciples\bin\Debug\net8.0\SolidPrinciples.dll
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\SolidPrinciples\SolidPrinciples\bin\Debug\net8.0\SolidPrinciples.pdb
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.AssemblyInfoInputs.cache
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.AssemblyInfo.cs
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.dll
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\refint\SolidPrinciples.dll
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.pdb
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.genruntimeconfig.cache
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\ref\SolidPrinciples.dll

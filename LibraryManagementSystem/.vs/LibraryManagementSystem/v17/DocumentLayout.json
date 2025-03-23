@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vijay\\OneDrive\\Desktop\\dotnet\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D11ADB-C44E-47E1-8880-4355BFAC5FEE}|LibraryManagementSystemTests\\LibraryManagementSystemTests.csproj|C:\\Users\\vijay\\OneDrive\\Desktop\\dotnet\\LibraryManagementSystem\\librarymanagementsystemtests\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D11ADB-C44E-47E1-8880-4355BFAC5FEE}|LibraryManagementSystemTests\\LibraryManagementSystemTests.csproj|solutionrelative:librarymanagementsystemtests\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F882D507-38F1-4B05-99FA-275AD880CF6D}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\vijay\\onedrive\\desktop\\dotnet\\librarymanagementsystem\\librarymanagementsystem\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F882D507-38F1-4B05-99FA-275AD880CF6D}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F882D507-38F1-4B05-99FA-275AD880CF6D}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\vijay\\OneDrive\\Desktop\\dotnet\\LibraryManagementSystem\\librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F882D507-38F1-4B05-99FA-275AD880CF6D}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F882D507-38F1-4B05-99FA-275AD880CF6D}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\vijay\\OneDrive\\Desktop\\dotnet\\LibraryManagementSystem\\librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F882D507-38F1-4B05-99FA-275AD880CF6D}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\OneDrive\\Desktop\\dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Library.cs",
+              "ToolTip": "C:\\Users\\vijay\\OneDrive\\Desktop\\dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Library.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:23:06.761Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryTests.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\OneDrive\\Desktop\\dotnet\\LibraryManagementSystem\\LibraryManagementSystemTests\\LibraryTests.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemTests\\LibraryTests.cs",
+              "ToolTip": "C:\\Users\\vijay\\OneDrive\\Desktop\\dotnet\\LibraryManagementSystem\\LibraryManagementSystemTests\\LibraryTests.cs",
+              "RelativeToolTip": "LibraryManagementSystemTests\\LibraryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:25:13.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\OneDrive\\Desktop\\dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Borrower.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Borrower.cs",
+              "ToolTip": "C:\\Users\\vijay\\OneDrive\\Desktop\\dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Borrower.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:22:08.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\OneDrive\\Desktop\\dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Book.cs",
+              "ToolTip": "C:\\Users\\vijay\\OneDrive\\Desktop\\dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Book.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:21:07.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

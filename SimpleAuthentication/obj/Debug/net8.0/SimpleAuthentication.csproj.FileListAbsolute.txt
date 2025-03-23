@@ -1,0 +1,17 @@
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\bin\Debug\net8.0\SimpleAuthentication.exe
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\bin\Debug\net8.0\SimpleAuthentication.deps.json
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\bin\Debug\net8.0\SimpleAuthentication.runtimeconfig.json
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\bin\Debug\net8.0\SimpleAuthentication.dll
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\bin\Debug\net8.0\SimpleAuthentication.pdb
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\bin\Debug\net8.0\NLog.dll
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\obj\Debug\net8.0\SimpleAuthentication.csproj.AssemblyReference.cache
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\obj\Debug\net8.0\SimpleAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\obj\Debug\net8.0\SimpleAuthentication.AssemblyInfoInputs.cache
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\obj\Debug\net8.0\SimpleAuthentication.AssemblyInfo.cs
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\obj\Debug\net8.0\SimpleAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\obj\Debug\net8.0\SimpleAu.F4BDF6BB.Up2Date
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\obj\Debug\net8.0\SimpleAuthentication.dll
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\obj\Debug\net8.0\refint\SimpleAuthentication.dll
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\obj\Debug\net8.0\SimpleAuthentication.pdb
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\obj\Debug\net8.0\SimpleAuthentication.genruntimeconfig.cache
+C:\Users\vijay\OneDrive\Desktop\dotnet\SimpleAuthentication\SimpleAuthentication\obj\Debug\net8.0\ref\SimpleAuthentication.dll
