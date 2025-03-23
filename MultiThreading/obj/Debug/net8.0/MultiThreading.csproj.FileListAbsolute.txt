@@ -1,0 +1,14 @@
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\MultiThreading\MultiThreading\bin\Debug\net8.0\MultiThreading.exe
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\MultiThreading\MultiThreading\bin\Debug\net8.0\MultiThreading.deps.json
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\MultiThreading\MultiThreading\bin\Debug\net8.0\MultiThreading.runtimeconfig.json
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\MultiThreading\MultiThreading\bin\Debug\net8.0\MultiThreading.dll
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\MultiThreading\MultiThreading\bin\Debug\net8.0\MultiThreading.pdb
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.AssemblyInfoInputs.cache
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.AssemblyInfo.cs
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.dll
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\MultiThreading\MultiThreading\obj\Debug\net8.0\refint\MultiThreading.dll
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.pdb
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.genruntimeconfig.cache
+C:\Users\vijay\OneDrive\Desktop\dotnet\day-10 assigment\MultiThreading\MultiThreading\obj\Debug\net8.0\ref\MultiThreading.dll
